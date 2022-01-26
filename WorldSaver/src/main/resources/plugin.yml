@@ -1,0 +1,10 @@
+name: WorldSwitcher
+version: '${project.version}'
+main: me.shadow.worldswitcher.WorldSwitcher
+api-version: 1.18
+description: A plugin designed to switch your inventory when you change worlds
+commands:
+  worldswitch:
+    description: A command to switch dimensions
+    usage: /worldswitch
+    aliases: /ws
